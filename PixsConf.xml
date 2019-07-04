@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Settings>
+    <Log>
+        <Level>DEBUG</Level>
+        <LogPath>C:\Daten\Tmp\</LogPath>
+        <LogName>AnalyzePixs</LogName>
+    </Log>
+    <Tool>
+        <ToolPath>C:\Daten\TMP\</ToolPath>
+    </Tool>
+</Settings>
